@@ -1,9 +1,0 @@
-Building GoCoin
-
-See doc/readme-qt.rst for instructions on building GoCoin QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of GoCoin.
-
-See doc/build-*.txt for instructions on building gocoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of GoCoin.
